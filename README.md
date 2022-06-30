@@ -5,7 +5,7 @@
 <h1> Seja bem-vindo </h1>
 
 <h1>
-Atualmente estou aprendendo JAVA pelo programa ENTRA21 </h1>
+Atualmente estou cursando JAVA pelo programa ENTRA21 </h1>
 
 ### Contatos:
 <div>
