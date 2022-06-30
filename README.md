@@ -4,9 +4,8 @@
 ![Snake animation](https://github.com/beabarth/beabarth/blob/output/github-contribution-grid-snake.svg)
 <h1> Seja bem-vindo </h1>
 
-###- 🔭 Atualmente estou trabalhando em algo legal
-###- 🌱 Atualmente estou aprendendo JAVA pelo programa ENTRA21!
-###- 🤔 Estou procurando ajuda com JAVA
+<h1>
+Atualmente estou aprendendo JAVA pelo programa ENTRA21 </h1>
 
 ### Contatos:
 <div>
@@ -14,7 +13,8 @@
 </div>
 
 ### Ferramentas e Tecnologias:
-  <i class="devicon-java-plain-wordmark colored"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
+          
           
 
   
