@@ -1,7 +1,7 @@
-### Hello, Devs! Me chamo Beatriz!
+### Seja bem vindo!
 
 ![Snake animation](https://github.com/beabarth/beabarth/blob/output/github-contribution-grid-snake.svg)
-<h1> Seja bem-vindo </h1>
+<h1> Hello, Devs! Me chamo Beatriz! </h1>
 
 <h2>
 Atualmente estou cursando JAVA pelo programa ENTRA21 </h2>
